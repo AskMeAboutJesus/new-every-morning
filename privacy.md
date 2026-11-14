@@ -4,10 +4,10 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Daily Bible Reading Plan**
+**New Every Morning**
 Effective 12 November 2026
 
-Daily Bible Reading Plan is made by Tom Wilson. This page explains what the app does with your information.
+New Every Morning is made by Tom Wilson. It is a reading plan that keeps track of where you are in the Bible; it does not contain the Bible text. This page explains what the app does with your information.
 
 ## Summary
 

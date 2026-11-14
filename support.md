@@ -4,7 +4,7 @@ title: Support
 
 # Support
 
-**Daily Bible Reading Plan**
+**New Every Morning**
 
 For help, questions or suggestions, write to [twappsupport@icloud.com](mailto:twappsupport@icloud.com). Please say which device you are using and what you were doing when the problem appeared.
 
@@ -18,13 +18,21 @@ Tap **New Plan** in the toolbar (the plus button). Give the plan a name, choose 
 
 One reading from each of four parts of Scripture: the Old Testament, Psalms, Proverbs and the New Testament.
 
+### Does the app include the Bible text?
+
+No. It holds the plan and your place in it, so you can read in whatever Bible you prefer. If you read from a paper Bible, turn to the four passages listed for the day and tick the day off when you are done.
+
 ### How do I open a reading in my Bible app?
 
 Tap the reading. It opens in the Bible app chosen under **Settings**, then **Bible App**. If that app is not installed, the passage opens on the web instead.
 
 ### I fell behind. How do I catch up?
 
-Use **Update Dates** in the toolbar. Choose the day you want to restart from and a new date, and every later day moves with it.
+Swipe the day you want to start again from and choose **Catch Up**. It is also in the context menu if you press and hold the row. Choose a new date for that day, and every later day moves with it. The days you have already marked as studied are kept.
+
+### Can I read the Gospels in a different order?
+
+Yes. When you create a plan you can choose to read Luke and John first, ahead of the rest of the New Testament. The choice is made for each plan as you create it.
 
 ### What happens when my plan ends?
 

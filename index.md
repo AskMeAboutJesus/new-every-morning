@@ -1,11 +1,14 @@
 ---
-title: Daily Bible Reading Plan
+title: New Every Morning
 ---
 
-# Daily Bible Reading Plan
+# New Every Morning
 
-A reading plan for iPhone, iPad and Mac that takes you through the Old Testament, Psalms, Proverbs and New Testament side by side, at your own pace.
+A daily Bible reading plan for iPhone, iPad and Mac. Four readings side by side — the Old Testament, Psalms, Proverbs and the New Testament — and they never line up the same way twice.
 
+A distraction-free way to keep your place, whether you read from the Bible on your bedside table or from a Bible app on your phone, iPad, or Mac.
+
+- [About](about)
 - [Support](support)
 - [Privacy Policy](privacy)
 
