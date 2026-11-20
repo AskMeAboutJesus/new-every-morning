@@ -26,13 +26,13 @@ The combination of the four strands reflects what I need. Proverbs repeats each 
 
 ## How it works
 
-- **Choose a start date**
-- **Add the starting Psalm and Proverb, the starting book and chapter for the Old and New Testaments**
-- **Select how many chapters of each (OT & NT) to read per day**
-- **The app lays out the plan, for the year, with dates, and shows the average reading time for each day's selection. You decide whether to read all four passages at once or split them between morning and evening**
-- **Tick each day off as you finish it**
-- **At any time, **Extend Plan** adds an extra year of readings to your plan, extending all four readings from where the last years plan ended**
-- **If you fall behind, **Catch Up** shifts the dates you missed, and everything after them, so the plan resumes the day you want it to. You can't fall behind, so there's never a reason to be discouraged**
+- Choose a start date
+- Add the starting Psalm and Proverb, the starting book and chapter for the Old and New Testaments
+- Select how many chapters of each (OT & NT) to read per day
+- The app lays out the plan, for the year, with dates, and shows the average reading time for each day's selection. You decide whether to read all four passages at once or split them between morning and evening
+- Tick each day off as you finish it
+- At any time, **Extend Plan** adds an extra year of readings to your plan, extending all four readings from where the last years plan ended
+- If you fall behind, **Catch Up** shifts the dates you missed, and everything after them, so the plan resumes the day you want it to. You can't fall behind, so there's never a reason to be discouraged
 
 ## It works with the Bible you already use
 
