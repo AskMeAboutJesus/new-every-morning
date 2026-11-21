@@ -36,7 +36,7 @@ The combination of the four strands reflects what I need. Proverbs repeats each 
 
 This app does not contain any Bible text. It holds the plan and your place in it, from whatever Bible you actually use and the translation you want to read: the one on your desk or bedside table, or a Bible app on your iPhone, iPad, or Mac.
 
-Tap a reading (OT, Ps, Pv, or NT) and it opens in the Bible app you have chosen. Or leave your phone alone and read the day’s four strands from your paper Bible, and come back to New Every Morning app to check off the day as completed.
+Tap a reading (OT, Ps, Pv, or NT) and it opens in the Bible app you have chosen. Or leave your phone alone and read the day’s four strands from your paper Bible, and come back to the New Every Morning app to check off the day as completed.
 
 There is no feed, no advertising, no account to create, and no distractions. Just today's four readings and a place to mark them completed.
 
