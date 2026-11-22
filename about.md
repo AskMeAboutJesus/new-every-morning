@@ -19,13 +19,14 @@ So this plan runs four parallel strands, each rotating at its own pace:
 
 Since the four strands are different lengths, after they cycle through, they restart and never line up the same way twice. The same day's combination will never repeat in your lifetime. This keeps your reading fresh and enables you to see connections you might have missed reading through your old plan.
 
-The combination of the four strands reflects what I need. Proverbs repeats each month, because I need wisdom and desire it more than gold. One psalm each day is a major pathway to connecting with my Father in heaven and a daily reminder of his character, his unchangeable nature, and his ever-present help. The Psalms are also my worship and prayer book. The Old Testament carries me steadily from Genesis to Malachi, where I watch the same faithful God keep his promises to Abraham and his offspring across the generations. Every page leans forward toward the coming Messiah. The New Testament runs from Matthew to Revelation, keeping my eyes and my heart on the cross and on our risen Saviour, helping me to walk in a manner worthy of him and strengthens me according to his glorious might.
+The combination of the four strands reflects what I need. Proverbs repeats each month, because I need wisdom and desire it more than gold. One psalm each day is a major pathway to connecting with my Father in heaven and a daily reminder of his character, his unchangeable nature, and his ever-present help. The Psalms are also my worship and prayer book. The Old Testament carries me steadily from Genesis to Malachi, where I watch the same faithful God keep his promises to Abraham and his offspring across the generations. Every page leans forward toward the coming Messiah. The New Testament runs from Matthew to Revelation, keeping my eyes and my heart on the cross and on our risen Saviour, helping me to walk in a manner worthy of him and strengthens me according to his glorious might for all endurance and patience with joy.
 
 ## How it works
 
 - Choose a start date for the year.
 - Select the starting Psalm and Proverb, and the starting book and chapter for the Old and New Testaments.
 - Select how many chapters of each (OT & NT) to read per day.
+- Select (... Luke, John, Acts) or (... John, Luke, Acts) NT order.
 - The app lays out the plan, for the year, with dates, and shows the average reading time for each day's selection. You decide whether to read all four passages at once or split them between morning and evening.
 - Tick each day off as you finish it.
 - If you fall behind because of life's circumstances, or after soaking in the book of John for a couple of weeks, **Catch Up** shifts the dates you missed, and everything after them, so the plan resumes the day you're ready to continue. You can't fall behind, so there's never a reason to be discouraged.
