@@ -29,7 +29,7 @@ The combination of the four strands reflects what I need. Proverbs repeats each 
 - Select (... Luke, John, Acts) or (... John, Luke, Acts) NT order.
 - The app lays out the plan, for the year, with dates, and shows the average reading time for each day's selection. You decide whether to read all four passages at once or split them between morning and evening.
 - Tick each day off as you finish it.
-- If you fall behind because of life's circumstances, or after soaking in the book of John for a couple of weeks, **Catch Up** shifts the dates you missed, and everything after them, so the plan resumes the day you're ready to continue. You can't fall behind, so there's never a reason to be discouraged.
+- If you fall behind because of life's circumstances, or after soaking in the book of John for a couple of weeks, **Catch-Up** shifts the dates you missed and everything after them so the plan resumes the day you're ready to continue. Since you can't fall behind there's never a reason to be discouraged.
 - At any time, **Extend Plan** adds an extra year of readings to your plan, extending all four readings, right from where the last year's plan ended. You can extend year after year, with an option to remove the previous year.
 
 
